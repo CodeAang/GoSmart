@@ -33,3 +33,4 @@
 /Users/vishalkumar/Projects/GoSmart.API/GoSmart.API/obj/Debug/net7.0/staticwebassets.build.json.cache
 /Users/vishalkumar/Projects/GoSmart.API/GoSmart.API/obj/Debug/net7.0/staticwebassets.build.endpoints.json
 /Users/vishalkumar/Projects/GoSmart.API/GoSmart.API/obj/Debug/net7.0/GoSmart..51912C55.Up2Date
+/Users/vishalkumar/Projects/GoSmart.API/GoSmart.API/obj/Debug/net7.0/GoSmart.API.sourcelink.json
