@@ -1,4 +1,5 @@
 ﻿using GoSmart.API.Services;
+using OpenAI_API;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +10,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<ItenaryService>();
+builder.Services.AddSingleton<OpenAIService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

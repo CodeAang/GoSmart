@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoSmart.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e0409c0054f8ccdaa9502411a1441aa4ec01615")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6030b85b0c8c17c198424f1f4ec44d25d45ac53")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoSmart.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoSmart.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

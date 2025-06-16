@@ -34,3 +34,8 @@ build/
 # OS files
 .DS_Store
 Thumbs.db
+# Ignore build artifacts
+bin/
+obj/
+*.dll
+*.pdb

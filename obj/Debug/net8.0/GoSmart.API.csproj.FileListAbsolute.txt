@@ -34,3 +34,6 @@
 /Users/vishalkumar/Projects/GoSmart.API/GoSmart.API/obj/Debug/net8.0/GoSmart.API.pdb
 /Users/vishalkumar/Projects/GoSmart.API/GoSmart.API/obj/Debug/net8.0/GoSmart.API.genruntimeconfig.cache
 /Users/vishalkumar/Projects/GoSmart.API/GoSmart.API/obj/Debug/net8.0/ref/GoSmart.API.dll
+/Users/vishalkumar/Projects/GoSmart.API/GoSmart.API/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/vishalkumar/Projects/GoSmart.API/GoSmart.API/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/vishalkumar/Projects/GoSmart.API/GoSmart.API/bin/Debug/net8.0/OpenAI_API.dll
